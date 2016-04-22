@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./memorialsofchurc01fowl/memorialsofchurc01fowl_0008.png"; bbox 0 0 1737 2886; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 574 1531 1302 1640">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 574 1531 1302 1640">
+     <span class='ocr_line' id='line_1_1' title="bbox 763 1531 1110 1555; baseline -0.012 0"><span class='ocrx_word' id='word_1_1' title='bbox 763 1534 899 1555; x_wconf 55' lang='lat' dir='ltr'>LONDON&#39;</span> <span class='ocrx_word' id='word_1_2' title='bbox 922 1531 1049 1553; x_wconf 72' lang='lat' dir='ltr'>anTED</span> <span class='ocrx_word' id='word_1_3' title='bbox 1074 1531 1110 1551; x_wconf 73' lang='grc' dir='ltr'>ΒΥ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 574 1573 1302 1600; baseline -0.011 0"><span class='ocrx_word' id='word_1_4' title='bbox 574 1579 796 1600; x_wconf 74' lang='lat' dir='ltr'>SPOTTlswoonn</span> <span class='ocrx_word' id='word_1_5' title='bbox 818 1578 877 1596; x_wconf 65' lang='lat' dir='ltr'>ANB</span> <span class='ocrx_word' id='word_1_6' title='bbox 900 1577 952 1599; x_wconf 75' lang='lat' dir='ltr'>CO..</span> <span class='ocrx_word' id='word_1_7' title='bbox 975 1574 1166 1595; x_wconf 61' lang='lat' dir='ltr'>NEsv-S&#39;x‘mm&#39;r</span> <span class='ocrx_word' id='word_1_8' title='bbox 1189 1573 1302 1597; x_wconf 65' lang='lat' dir='ltr'>sonum.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 734 1618 1139 1640; baseline -0.01 0"><span class='ocrx_word' id='word_1_9' title='bbox 734 1621 793 1640; x_wconf 72' lang='lat' dir='ltr'>Am)</span> <span class='ocrx_word' id='word_1_10' title='bbox 817 1619 1006 1639; x_wconf 61' lang='lat' dir='ltr'>PARLIAMEST</span> <span class='ocrx_word' id='word_1_11' title='bbox 1030 1618 1139 1637; x_wconf 70' lang='lat' dir='ltr'>STREBT</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

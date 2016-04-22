@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./memorialsofchurc01fowl/memorialsofchurc01fowl_0002.png"; bbox 0 0 1747 2620; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 16 28 367 342">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 18 28 88 74">
+     <span class='ocr_line' id='line_1_1' title="bbox 18 28 88 74; baseline 0.014 -1"><span class='ocrx_word' id='word_1_1' title='bbox 18 28 88 74; x_wconf 83' lang='lat' dir='ltr'>Ge</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 16 95 367 207">
+     <span class='ocr_line' id='line_1_2' title="bbox 22 95 367 143; baseline 0.012 -4"><span class='ocrx_word' id='word_1_2' title='bbox 22 95 128 140; x_wconf 77' lang='lat'>942</span> <span class='ocrx_word' id='word_1_3' title='bbox 148 95 367 143; x_wconf 77' lang='grc'>,74015</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 16 162 210 207; baseline 0.005 -1"><span class='ocrx_word' id='word_1_4' title='bbox 16 162 210 207; x_wconf 78' lang='lat' dir='ltr'>R592f</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 16 229 288 342">
+     <span class='ocr_line' id='line_1_4' title="bbox 16 229 127 276; baseline 0.009 -2"><span class='ocrx_word' id='word_1_5' title='bbox 16 229 127 276; x_wconf 75' lang='lat' dir='ltr'>v.1</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 18 296 288 342; baseline 0.004 -1"><span class='ocrx_word' id='word_1_6' title='bbox 18 296 288 342; x_wconf 75' lang='grc'>1507800</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 525 421 1673 488">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 525 421 1673 488">
+     <span class='ocr_line' id='line_1_6' title="bbox 525 421 1673 488; baseline 0.017 -19"><span class='ocrx_word' id='word_1_7' title='bbox 525 421 1068 477; x_wconf 63' lang='lat' dir='ltr'>GENEALOGY</span> <span class='ocrx_word' id='word_1_8' title='bbox 1110 429 1673 488; x_wconf 69' lang='grc' dir='ltr'>(ΞΟΙ-Ι-ΞΕΖΤΙΟΝ</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
